@@ -1,0 +1,14 @@
+{
+  "name": "cresh-tt-backend",
+  "version": "1.0.0",
+  "description": "Cresh Technical Test Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no server implemented\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
